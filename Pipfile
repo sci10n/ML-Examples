@@ -11,6 +11,7 @@ notebook = "*"
 matplotlib = "*"
 sklearn = "*"
 scipy = "*"
+tensorflow = "*"
 
 
 [dev-packages]
